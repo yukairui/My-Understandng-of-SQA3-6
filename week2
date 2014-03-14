@@ -1,19 +1,15 @@
                                              Summary of the Second Week
                                              
-     In the course of last week, we had a overview of QA and V&V in software processes and SQE-software quality enginee——
+     In the course of last week, we had a overview of QA and V&V in software processes and SQE-software quality engineering in the overall development. Defect handling is throughout the whole project process, in terms of defect prevention 
 
-ring in the overall development. Defect handling is throughout the whole project process, in terms of defect prevention 
-
-in the beginning of the process, defect removal in the testing phase and defect containment in late phases. Besides, 
-
-among distributed QA activities, defect containment activities are important for some critical or highly-dependable systems
+in the beginning of the process, defect removal in the testing phase and defect containment in late phases. Besides, among distributed QA activities, defect containment activities are important for some critical or highly-dependable systems
 
 and data is essential for future QA activities. Therefore, core QA activities are grouped into V&V, that is to say, the
 
 validation view. Mentioning SQE, we know that QA activities need additional support such as planning and goal setting,
 
-management, data collection, and analysis and modeling. Therefore, software quality engineer is deserved to emerge at 
+management, data collection, and analysis and modeling. Therefore, software quality engineer is deserved to emerge at its
 
-its proper moment. SQE process includes making pre-QA planning, setting quality goals, forming QA strategies and 
+proper moment. SQE process includes making pre-QA planning, setting quality goals, forming QA strategies and analysis
 
-analysis and feedbacks until the quality goals are satisfied.
+and feedbacks until the quality goals are satisfied.
