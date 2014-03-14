@@ -1,2 +1,4 @@
-My-Understandng-of-SQA3-6
+SQA Homework 
+Sun Baiyi
+13126128
 =========================
